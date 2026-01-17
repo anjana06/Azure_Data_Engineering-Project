@@ -46,7 +46,7 @@ This repository contains end-to-end Azure Data Engineering projects demonstratin
 - Databricks workflows
 - PySpark transformations
 - Synapse + Power BI reporting
-📂 [View Project](./tree/main/Projects/NETFLIX_PROJECT)
+📂 [View Project](././main/Projects/NETFLIX_PROJECT)
 
 ## Tech Stack
 Azure Data Factory | Azure Databricks | ADLS Gen2 | PySpark | Delta Lake | Power BI | Azure Synapse
