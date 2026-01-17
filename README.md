@@ -15,7 +15,7 @@ This repository contains end-to-end Azure Data Engineering projects demonstratin
 - Curated Delta tables for analytics
 - Power BI reporting
 
-📂 **[View Project](./NYC_TAXI_PROJECT)**
+📂 **[View Project](./Projects/NYC_TAXI_PROJECT)**
 
 ---
 
